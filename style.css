@@ -1,0 +1,73 @@
+nav {
+    height: 100px;
+    background-color: skyblue;
+    
+}
+
+p{
+    margin: 0px;
+    padding-top: 10px;
+    color: white;
+    text-align: center;
+    align-content: center;
+    font-size: xx-large;
+}
+
+
+.hero{
+    height: 400px;
+    width: 500px;
+    background-color: pink;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+.sidebar{
+    height: 550px;
+    width: 500px;
+    background-color: green;
+    margin-bottom: 10px;
+    
+}
+
+.maincontent{
+    height: 600px;
+    width: 994px;
+    background-color: orange;
+    margin: 10px;
+}
+
+.extracontent{
+    width: 994px;
+    height: 350px;
+    margin: 10px;
+    background-color: gray;
+
+}
+.firstflex{
+    display: flex;
+}
+
+.relatedimages{
+    width: 1100px;
+    height: 200px;
+    background-color: turquoise;
+   margin-right: 10px;
+}
+.relatedposts{
+    width: 398px;
+    height: 200px;
+    background-color: palevioletred;
+   
+
+}
+.secondflex{
+    display: flex;
+   
+}
+
+footer{
+    height: 100px;
+    background-color: coral;
+    margin-top: 10px;
+}
